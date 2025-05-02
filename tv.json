@@ -1,0 +1,52 @@
+{ 
+	"urls": [
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/饭太硬/api.json", 
+            "name": "饭太硬" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/小米/api.json", 
+            "name": "小米" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/肥猫/api.json", 
+            "name": "肥猫" 
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", 
+            "name": "香雅情[原]" 
+        },
+        {  
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/南风/api.json", 
+            "name": "南风" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/PG/api.json", 
+            "name": "PG" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/摸鱼儿/api.json", 
+            "name": "摸鱼儿" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/欧歌/api.json", 
+            "name": "欧歌" 
+        },
+        {   
+        	"url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/王二小/api.json", 
+            "name": "王二小" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/潇洒/api.json", 
+            "name": "潇洒" 
+        },
+        { 
+            "url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/戏曲音乐/api.json", 
+            "name": "戏曲音乐" 
+        },
+        {   
+        	"url": "https://dl.fk69.top/https://raw.githubusercontent.com/lhxx889/tvboxtg/refs/heads/main/少儿频道/api.json", 
+            "name": "少儿频道" 
+        }
+    ]
+}
